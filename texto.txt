@@ -1,0 +1,6 @@
+Este es un texto
+Cuyo objetivo es
+Ser lavantado directamente
+Desde un Python File.
+Cualquier otra actividad 
+Corre por cuenta del usuario.
